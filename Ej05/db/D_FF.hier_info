@@ -1,0 +1,7 @@
+|D_FF
+oQ << oQ~reg0.DB_MAX_OUTPUT_PORT_TYPE
+iD => oQ~reg0.DATAIN
+iCLK => oQ~reg0.CLK
+iRST => oQ~reg0.ACLR
+
+

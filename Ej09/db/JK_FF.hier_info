@@ -1,0 +1,14 @@
+|JK_FF
+iJ => always0.IN0
+iJ => always0.IN0
+iJ => always0.IN0
+iJ => always0.IN0
+iK => always0.IN1
+iK => always0.IN1
+iK => always0.IN1
+iK => always0.IN1
+iCLK => rQ.CLK
+oQ << rQ.DB_MAX_OUTPUT_PORT_TYPE
+oQnot << rQ.DB_MAX_OUTPUT_PORT_TYPE
+
+

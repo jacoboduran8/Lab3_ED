@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\modelsim_ase\win32aloem
+vDisplayLCD
+Z1 IkOS@R@1J=zCk^JgGU2RYb3
+Z2 VVV_^C2Cfd:mYIb=jmN8iT3
+Z3 dC:\altera\13.1\Lab3\EJ15\Sim
+Z4 w1792792723
+Z5 8C:/altera/13.1/Lab3/EJ15/Sim/DisplayLCD.v
+Z6 FC:/altera/13.1/Lab3/EJ15/Sim/DisplayLCD.v
+L0 2
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@display@l@c@d
+!i10b 1
+Z10 !s100 HKVnkAkH;i@JXGQ:NAVof0
+!s85 0
+Z11 !s108 1792792747.554000
+Z12 !s107 C:/altera/13.1/Lab3/EJ15/Sim/DisplayLCD.v|
+Z13 !s90 -reportprogress|300|-work|work|C:/altera/13.1/Lab3/EJ15/Sim/DisplayLCD.v|
+!s101 -O0
+vtb_DisplayLCD
+!i10b 1
+!s100 C^^4ZzLQzF]F`c<U71@V70
+I:=HH^1B=o`]m2aiQeajah2
+V[RPJcWmPB=4SaffB9mZ7j2
+R3
+w1792792740
+8C:/altera/13.1/Lab3/EJ15/Sim/tb_DisplayLCD.v
+FC:/altera/13.1/Lab3/EJ15/Sim/tb_DisplayLCD.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1792792747.633000
+!s107 C:/altera/13.1/Lab3/EJ15/Sim/tb_DisplayLCD.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Lab3/EJ15/Sim/tb_DisplayLCD.v|
+!s101 -O0
+R8
+ntb_@display@l@c@d

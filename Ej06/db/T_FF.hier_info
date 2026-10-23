@@ -1,0 +1,14 @@
+|T_FF
+oQ << D_FF:D1.port0
+iT => DT.IN1
+iCLK => iCLK.IN1
+iRST => iRST.IN1
+
+
+|T_FF|D_FF:D1
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+D => Q~reg0.DATAIN
+CLK => Q~reg0.CLK
+RST => Q~reg0.ACLR
+
+

@@ -1,0 +1,23 @@
+|Tcircuit
+x => TB.IN1
+y << y.DB_MAX_OUTPUT_PORT_TYPE
+A << T_FF:AF.port0
+B << T_FF:BF.port0
+CLK => CLK.IN2
+RST => RST.IN2
+
+
+|Tcircuit|T_FF:BF
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+T => Q~reg0.ENA
+CLK => Q~reg0.CLK
+RST => Q~reg0.ACLR
+
+
+|Tcircuit|T_FF:AF
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+T => Q~reg0.ENA
+CLK => Q~reg0.CLK
+RST => Q~reg0.ACLR
+
+

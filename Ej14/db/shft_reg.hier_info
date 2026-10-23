@@ -1,0 +1,65 @@
+|shft_reg
+iI[0] => iI[0].IN1
+iI[1] => iI[1].IN1
+iI[2] => iI[2].IN1
+iI[3] => iI[3].IN1
+iselect[0] => iselect[0].IN4
+iselect[1] => iselect[1].IN4
+ilfin => ilfin.IN1
+irtin => irtin.IN1
+oA[0] << oA[0].DB_MAX_OUTPUT_PORT_TYPE
+oA[1] << oA[1].DB_MAX_OUTPUT_PORT_TYPE
+oA[2] << oA[2].DB_MAX_OUTPUT_PORT_TYPE
+oA[3] << oA[3].DB_MAX_OUTPUT_PORT_TYPE
+iCLK => iCLK.IN4
+iClr => iClr.IN4
+
+
+|shft_reg|stage:ST0
+i0 => Mux0.IN0
+i1 => Mux0.IN1
+i2 => Mux0.IN2
+i3 => Mux0.IN3
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+select[0] => Mux0.IN5
+select[1] => Mux0.IN4
+CLK => Q~reg0.CLK
+Clr => Q~reg0.ACLR
+
+
+|shft_reg|stage:ST1
+i0 => Mux0.IN0
+i1 => Mux0.IN1
+i2 => Mux0.IN2
+i3 => Mux0.IN3
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+select[0] => Mux0.IN5
+select[1] => Mux0.IN4
+CLK => Q~reg0.CLK
+Clr => Q~reg0.ACLR
+
+
+|shft_reg|stage:ST2
+i0 => Mux0.IN0
+i1 => Mux0.IN1
+i2 => Mux0.IN2
+i3 => Mux0.IN3
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+select[0] => Mux0.IN5
+select[1] => Mux0.IN4
+CLK => Q~reg0.CLK
+Clr => Q~reg0.ACLR
+
+
+|shft_reg|stage:ST3
+i0 => Mux0.IN0
+i1 => Mux0.IN1
+i2 => Mux0.IN2
+i3 => Mux0.IN3
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+select[0] => Mux0.IN5
+select[1] => Mux0.IN4
+CLK => Q~reg0.CLK
+Clr => Q~reg0.ACLR
+
+

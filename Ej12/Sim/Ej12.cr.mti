@@ -1,0 +1,16 @@
+C:/altera/13.1/Lab3/Ej12/Sim/testTcircuit.v {1 {vlog -work work C:/altera/13.1/Lab3/Ej12/Sim/testTcircuit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testTcircuit
+
+Top level modules:
+	testTcircuit
+
+} {} {}} C:/altera/13.1/Lab3/Ej12/Sim/Tcircuit.v {1 {vlog -work work C:/altera/13.1/Lab3/Ej12/Sim/Tcircuit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Tcircuit
+-- Compiling module T_FF
+
+Top level modules:
+	Tcircuit
+
+} {} {}}

@@ -1,0 +1,29 @@
+|shft_reg
+is1 => Mux0.IN0
+is1 => Mux1.IN0
+is1 => Mux2.IN0
+is1 => Mux3.IN0
+is0 => Mux0.IN1
+is0 => Mux1.IN1
+is0 => Mux2.IN1
+is0 => Mux3.IN1
+iPin[0] => Mux3.IN3
+iPin[1] => Mux2.IN2
+iPin[2] => Mux1.IN2
+iPin[3] => Mux0.IN3
+ilfin => Mux3.IN2
+irtin => Mux0.IN2
+oA[0] << oA[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+oA[1] << oA[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+oA[2] << oA[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+oA[3] << oA[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+iCLK => oA[0]~reg0.CLK
+iCLK => oA[1]~reg0.CLK
+iCLK => oA[2]~reg0.CLK
+iCLK => oA[3]~reg0.CLK
+iClr => oA[0]~reg0.ACLR
+iClr => oA[1]~reg0.ACLR
+iClr => oA[2]~reg0.ACLR
+iClr => oA[3]~reg0.ACLR
+
+

@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\modelsim_ase\win32aloem
+vT_FF
+Z1 IDd=Ohh=mOdRAG:R<>XJ:V2
+Z2 VhC2ldES=7hMER]e_ccJgz2
+Z3 dC:\altera\13.1\Lab3\Ej12\Sim
+Z4 w1792782385
+Z5 8C:/altera/13.1/Lab3/Ej12/Sim/Tcircuit.v
+Z6 FC:/altera/13.1/Lab3/Ej12/Sim/Tcircuit.v
+L0 18
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s108 1792782410.578000
+Z9 !s107 C:/altera/13.1/Lab3/Ej12/Sim/Tcircuit.v|
+Z10 !s90 -reportprogress|300|-work|work|C:/altera/13.1/Lab3/Ej12/Sim/Tcircuit.v|
+Z11 o-work work -O0
+Z12 n@t_@f@f
+!i10b 1
+Z13 !s100 1EH3:4k4^BU`44X6CF8ln1
+!s85 0
+!s101 -O0
+vTcircuit
+Z14 IAPT<438Id;2<J^cKn3?SU0
+Z15 VbZg8icbjzkC_F[ZCnbz[>2
+R3
+R4
+R5
+R6
+L0 3
+R7
+r1
+31
+R8
+R9
+R10
+R11
+Z16 n@tcircuit
+!i10b 1
+Z17 !s100 6o2;llCk:a7co>g2I[fX@0
+!s85 0
+!s101 -O0
+vtestTcircuit
+!i10b 1
+!s100 Qc?jV^Kzg9bFGJ6`JD?fX2
+IRMMHiAzM6cm<ChDh2KD;B2
+Z18 VROAo>5h7_`jjETWnN_iP40
+R3
+w1792782400
+Z19 8C:/altera/13.1/Lab3/Ej12/Sim/testTcircuit.v
+Z20 FC:/altera/13.1/Lab3/Ej12/Sim/testTcircuit.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1792782410.657000
+!s107 C:/altera/13.1/Lab3/Ej12/Sim/testTcircuit.v|
+Z21 !s90 -reportprogress|300|-work|work|C:/altera/13.1/Lab3/Ej12/Sim/testTcircuit.v|
+!s101 -O0
+R11
+Z22 ntest@tcircuit
