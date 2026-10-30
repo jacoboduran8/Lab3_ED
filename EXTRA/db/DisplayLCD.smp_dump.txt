@@ -1,0 +1,15 @@
+
+State Machine - |DisplayLCD|estado
+Name estado.Termina_Aqui estado.Caracter4 estado.Caracter3 estado.Caracter2 estado.Caracter1 estado.Envia_Direccion estado.Envia_EntryModeSet estado.Espera_Clear estado.Envia_DisplayClear estado.Enviar_DisplayControl estado.Enviar_SetFunction estado.Espera_40ms 
+estado.Espera_40ms 0 0 0 0 0 0 0 0 0 0 0 0 
+estado.Enviar_SetFunction 0 0 0 0 0 0 0 0 0 0 1 1 
+estado.Enviar_DisplayControl 0 0 0 0 0 0 0 0 0 1 0 1 
+estado.Envia_DisplayClear 0 0 0 0 0 0 0 0 1 0 0 1 
+estado.Espera_Clear 0 0 0 0 0 0 0 1 0 0 0 1 
+estado.Envia_EntryModeSet 0 0 0 0 0 0 1 0 0 0 0 1 
+estado.Envia_Direccion 0 0 0 0 0 1 0 0 0 0 0 1 
+estado.Caracter1 0 0 0 0 1 0 0 0 0 0 0 1 
+estado.Caracter2 0 0 0 1 0 0 0 0 0 0 0 1 
+estado.Caracter3 0 0 1 0 0 0 0 0 0 0 0 1 
+estado.Caracter4 0 1 0 0 0 0 0 0 0 0 0 1 
+estado.Termina_Aqui 1 0 0 0 0 0 0 0 0 0 0 1 
