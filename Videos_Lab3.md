@@ -18,3 +18,5 @@ Tarjeta DE0-CV · Electrónica Digital · UPB
 | Ejercicio 12 | Contador con flip-flops T | [Ver video](https://youtu.be/0XMyQJZ8UEA) |
 | Ejercicio 13 | Registro de desplazamiento universal | [Ver video](https://youtu.be/JmFUpyBuXwg) |
 | Ejercicio 14 | Registro de desplazamiento estructural | [Ver video](https://youtu.be/v0Aig2vZMjA) |
+| Ejercicio 15 | Display LCD 16x2 mostrando "Hola" | [Ver video](https://youtu.be/dhFrrFCKMLU) |
+| Extra | Secuencia del LCD en modo lento | [Ver video](https://youtu.be/NMpNAHjcBME) |
